@@ -6,6 +6,7 @@ I'm a fifth-year PhD student in the Department of  Electrical and Computer Engi
 
 Along with my research, I am also quite active in mentoring younger lab members, as well as undergraduate and high school students that rotate in our lab. I have also been part of multiple organizational committees, including the new graduate student orientation committees for 2016 and 2018, and ISAR.
 
+
 Outside of research, I'm an avid reader(though these days the term bibliophile might be more appropriate), love to sing in non-competitive avenues, hiking, and planespotting.
 
 You can find my current CV [here](https://snk2.blogs.rice.edu/files/2022/02/CV_SNK2.pdf)
