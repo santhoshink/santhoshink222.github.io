@@ -1,4 +1,7 @@
-
+---
+layout : page
+title : Publications
+---
 
 You can find a full list of my publications <a href="https://scholar.google.com/citations?user=u7hXpYIAAAAJ&hl=en&oi=ao">Google</a>.
 
