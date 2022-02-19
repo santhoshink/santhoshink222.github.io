@@ -1,6 +1,6 @@
 layout: page
-title: "Selected Publications"
-permalink: /publications/
+title: "Publications"
+permalink: https://santhoshink.github.io/publications/
 
 You can find a full list of my publications here.
 
