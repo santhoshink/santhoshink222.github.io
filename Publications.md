@@ -1,6 +1,4 @@
-layout: page
-title: "Publications"
-permalink: /Publications/
+
 
 You can find a full list of my publications here.
 
