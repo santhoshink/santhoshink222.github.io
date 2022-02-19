@@ -19,7 +19,7 @@ Communication Systems (ICIIECS), 2015.
 
 In Conference Proceedings:
 
-[1]Yan Li, Majid Farhadloo, Santhoshi Krishnan, Timothy L Frankel, Shashi Shekhar, and Arvind Rao. Srnet: A spatial-relationship aware point-set classification method for multiplexed pathology images. In Proceedings of DeepSpatial ’21: 2nd ACM SIGKDD Workshop on Deep Learning
+[1] Yan Li, Majid Farhadloo, Santhoshi Krishnan, Timothy L Frankel, Shashi Shekhar, and Arvind Rao. Srnet: A spatial-relationship aware point-set classification method for multiplexed pathology images. In Proceedings of DeepSpatial ’21: 2nd ACM SIGKDD Workshop on Deep Learning
 for Spatiotemporal Data, Applications, and Systems, volume 10. ACM, KDD-organized virtual conference, 2021.
 
 [2]Santhoshi Krishnan, Arthur Braat, Armeen Mahvash, Marnix Lam, and Srinivas Kappadath.Dosimetry model-dependent biases in absorbed dose calculations following 90y-microsphere therapy. volume 58, pages 428–428. Society of Nuclear Medicine, 2017.
