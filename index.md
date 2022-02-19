@@ -1,3 +1,7 @@
+---
+layout : full
+---
+
 ## About Me
 
 ![My Picture](docs/assets/IMG_0481_2.jpg)
